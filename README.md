@@ -37,3 +37,4 @@ python bitcoin_block_alert.py
 - 确保系统已安装语音引擎
 - 需要保持网络连接
 - 程序会持续运行，直到手动停止（Ctrl+C） 
+![image](https://github.com/user-attachments/assets/0e2068c8-662c-4474-b54a-40ca9cd57eae)
